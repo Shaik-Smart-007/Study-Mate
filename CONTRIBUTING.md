@@ -18,8 +18,8 @@ If listing multiple categories, confirm eligibility with the organizers and comp
 
 ## Project links
 
-- Public GitHub repository:
-- Open-source license (link to the license file):
+- Public GitHub repository: https://github.com/Shaik-Smart-007/Study-Mate
+- Open-source license (link to the license file): https://github.com/Shaik-Smart-007/Study-Mate/blob/main/LICENSE.md
 
 ## Problem and solution
 
@@ -78,9 +78,8 @@ Complete the relevant section(s) and remove those that do not apply.
 ### Best Use of Gemma 4
 
 - Gemma 4 model identifier and Gemini API integration: gemma-4-26b-a4b-it, accessed through the Google GenAI Python SDK and Gemini API.
-- Code link showing the integration: <YOUR_STUDYSNAP_REPO_URL>/blob/main/gemma.py
+- Code link showing the integration:(https://github.com/Shaik-Smart-007/Study-Mate/blob/main/gemma.py)
 - Input and useful output; multimodal value where applicable:
-
 Text input:
 A student enters a topic, question, or study notes.
 
